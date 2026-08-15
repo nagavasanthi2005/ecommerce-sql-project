@@ -159,3 +159,12 @@ WHERE customer_id = 5000;
 |---|---:|
 | Before index | 8.704 ms |
 | After index | 0.205 ms |
+## Screenshots
+
+### Top-Selling Products
+
+![Top-Selling Products](screenshots/top_products_output.png)
+
+### Query Performance Optimization
+
+![Query Performance](screenshots/index_performance.png)
